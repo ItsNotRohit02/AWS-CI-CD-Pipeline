@@ -30,5 +30,5 @@ phases:
        - mvn package
 artifacts:
   files:
-     - '**/*'
+     - '**/*.war'
   base-directory: 'target'
